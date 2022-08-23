@@ -1,3 +1,3 @@
-# annaevweek.github.io
+# annadevweek.github.io
 
 Currículo do Jornada Dev
